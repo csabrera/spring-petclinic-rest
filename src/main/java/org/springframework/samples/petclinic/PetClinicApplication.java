@@ -12,5 +12,8 @@ public class PetClinicApplication extends SpringBootServletInitializer {
         // Golachito1
         // Golachito2
         // Golachito3
+        // Golachito4
+        // Golachito5
+        // Golachito6
     }
 }
